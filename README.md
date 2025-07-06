@@ -1,6 +1,3 @@
-# meudiariooo
-meu diario
-
 <!DOCTYPE html>
 <html lang="pt-br">
   <head>
